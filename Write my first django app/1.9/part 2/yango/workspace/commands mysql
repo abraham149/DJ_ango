@@ -1,0 +1,11 @@
+ablemus494:~/workspace $ sudo service mysql status
+ * MySQL Community Server 5.6.41 is running
+ablemus494:~/workspace $ sudo start mysql
+ablemus494:~/workspace $ sudo restart mysql # The service must be running
+ablemus494:~/workspace $ sudo stop mysql # The service must be running
+ablemus494:~/workspace $ sudo service mysql status
+ * MySQL Community Server 5.6.41 is running
+ablemus494:~/workspace $ sudo service mysql stop
+..
+ * MySQL Community Server 5.6.41 is stopped
+ablemus494:~/workspace $ 
